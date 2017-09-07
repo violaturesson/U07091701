@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\bin\Debug\upgA.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\bin\Debug\upgA.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\bin\Debug\upgA.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\obj\Debug\upgA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\obj\Debug\upgA.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U07091701\upgA\upgA\obj\Debug\upgA.pdb
